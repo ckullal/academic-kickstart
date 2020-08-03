@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Asspciate Professor of Materials Science and Engineering
+role: Associate Professor of Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:
