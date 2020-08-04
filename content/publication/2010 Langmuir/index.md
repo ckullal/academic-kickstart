@@ -3,8 +3,8 @@ title: "Dynamic Imaging of Colloidal-Crystal Nanostructures at 200 Frames per Se
 authors:
 - Lauterbach, M.A.
 - Ullal, C.K.
-- Westphal, V
-- Hell S.W.
+- Westphal, V.
+- Hell, S.W.
 
 #author_notes:
 date: "2010-08-18T00:00:00Z"
