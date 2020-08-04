@@ -1,5 +1,5 @@
 ---
-title: "​One-pot Surfactant-free Modulation of Size and Functional Group Distribution in Thermoresponsive Microgels"
+title: "One-pot Surfactant-free Modulation of Size and Functional Group Distribution in Thermoresponsive Microgels"
 authors:
 - Karanastasis, A.A.
 - Kenath, G.S.
@@ -19,6 +19,6 @@ doi: "10.1016/j.jcis.2020.02.057"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of COlloid and Interface Science*, **568**, 264-272"
+publication: "*Journal of Colloid and Interface Science*, **568**, 264-272"
 
 ---
