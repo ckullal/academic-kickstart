@@ -1,12 +1,12 @@
 ---
 title: "3D mapping of nanoscale crosslink heterogeneities in microgels"
 authors:
-- Apostolos A Karanastasis
-- Yongdeng Zhang
-- Gopal S. Kenath
-- Mark D. Lessard
-- Joerg Bewersdorf
-- Chaitanya K. Ullal
+- Karanastasis, A.A.
+- Zhang Y.
+- Kenath G.S.
+- Lessard M.D.
+- Bewersdorf J.
+- Ullal C.K.
 
 # author_notes:
 
@@ -23,15 +23,6 @@ publication_types: ["2"]
 publication: "*Materials Horizons*, **5**, 1130-1136"
 publication_short: ""
 
-# tags:
-# - Source Themes
-# featured: false
-
-# links:
-# - name: "doi"
-#  url: "http://dx.doi.org/10.1039/C8MH00644J"
- 
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -40,5 +31,3 @@ publication_short: ""
 projects: []
 
 ---
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
