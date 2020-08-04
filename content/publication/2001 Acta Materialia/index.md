@@ -18,4 +18,5 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Acta Materialia*, **49**, 2691-2699"
-# publication_short: ""
+
+---
