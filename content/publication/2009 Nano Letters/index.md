@@ -4,7 +4,7 @@ authors:
 - Ullal, C.K.
 - Schmidt, R.
 - Hell, S.W.
-- Egner A.
+- Egner, A.
 
 #author_notes:
 date: "2009-09-14T00:00:00Z"
