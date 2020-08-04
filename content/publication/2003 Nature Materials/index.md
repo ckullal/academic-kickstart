@@ -6,7 +6,7 @@ authors:
 - Carter, W.C.
 - Thomas E.L.
 
-#author_notes:
+# author_notes:
 date: "2003-09-14T00:00:00Z"
 doi: "10.1038/nmat979"
 
@@ -18,3 +18,5 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Materials*, **2**, 664-667"
+
+---
