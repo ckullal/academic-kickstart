@@ -1,5 +1,5 @@
 ---
-title: "​Dye Doped Concentric Shell Nanoparticles for Enhanced Photophysical Performance of Downconverting Light Emitting Diodes."
+title: "​Dye Doped Concentric Shell Nanoparticles for Enhanced Photophysical Performance of Downconverting Light Emitting Diodes"
 authors:
 - ​Ning, X.
 - Chittigori, J.
