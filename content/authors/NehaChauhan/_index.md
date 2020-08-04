@@ -1,5 +1,5 @@
-weight = 10
 ---
+weight: 10
 # Display name
 title: Neha Chauhan
 
