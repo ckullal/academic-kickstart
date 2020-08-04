@@ -1,11 +1,14 @@
 ---
-title: ""
+title: "Dielectric omnidirectional visible reflector"
 authors:
+- Deopura, M.
 - Ullal, C.K.
+- Temelkuran, B.
+- Fink, Y.
 
 #author_notes:
-date: "YYYY-MM-DDT00:00:00Z"
-doi: ""
+date: "2001-09-01T00:00:00Z"
+doi: "10.1364/OL.26.001197"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,5 +17,5 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**, ** **, "
+publication: "*Optics Letters*, **26**, 1197-1199"
 # publication_short: ""
