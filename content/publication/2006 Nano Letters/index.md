@@ -3,7 +3,7 @@ title: "Mechanically tunable three-dimensional elastomeric network/air structure
 authors:
 - Jang, J.-H.
 - Ullal, C.K.
-- Gorishnyy, T
+- Gorishnyy, T.
 - Tsukruk V.V.
 - Thomas E.L.
 
