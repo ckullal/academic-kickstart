@@ -1,7 +1,7 @@
 ---
 title: "Flexible Microdomain Specific Staining of Block Copolymers for 3D Optical Nanoscopy"
 authors:
-- Ullal, C.K.; 
+- Ullal, C.K. 
 - Primpke, S.
 - Schmidt, R.
 - Egner, A.
