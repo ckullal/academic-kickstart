@@ -13,7 +13,7 @@ author_notes:
 - 
 - "Equal contribution"
 date: "2018-09-05T00:00:00Z"
-doi: "10.1039/C8MH00644J"
+doi: "http://dx.doi.org/10.1039/C8MH00644J"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication: "*Materials Horizons*,5, 1130-1136"
 publication_short: "Mater. Horiz."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Spatial heterogeneities
 
 tags:
 - Source Themes
