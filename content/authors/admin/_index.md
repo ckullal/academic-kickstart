@@ -51,8 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Chaitanya Ullal is an Associate Professor of Materials Science and Engineering in the School of Engineering at the Rensselaer Polytechnic Institute.
