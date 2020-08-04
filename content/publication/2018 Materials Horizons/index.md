@@ -8,10 +8,8 @@ authors:
 - Joerg Bewersdorf
 - Chaitanya K. Ullal
 
-#author_notes:
-#- "Equal contribution"
-#- 
-#- "Equal contribution"
+# author_notes:
+
 date: "2018-09-05T00:00:00Z"
 doi: "10.1039/C8MH00644J"
 
