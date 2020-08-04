@@ -13,7 +13,7 @@ authors:
 #- 
 #- "Equal contribution"
 date: "2018-09-05T00:00:00Z"
-doi: "http://dx.doi.org/10.1039/C8MH00644J"
+doi: "10.1039/C8MH00644J"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
