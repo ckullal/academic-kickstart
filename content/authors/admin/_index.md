@@ -53,5 +53,3 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-
-Chaitanya Ullal is an Associate Professor of Materials Science and Engineering in the School of Engineering at the Rensselaer Polytechnic Institute.
