@@ -4,8 +4,8 @@ authors:
 - Yang, S.
 - Ullal, C.K.
 - Thomas, E.L.
-- Chen G.
-- Aizenberg J.
+- Chen, G.
+- Aizenberg, J.
 
 #author_notes:
 date: "2005-05-13T00:00:00Z"
