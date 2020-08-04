@@ -23,14 +23,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Materials Horizons*,5, 1130-1136"
-publication_short: "Mater. Horiz."
+publication_short: ""
 
-# Summary. An optional shortened abstract.
-summary: Spatial heterogeneities
-
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: "doi"
