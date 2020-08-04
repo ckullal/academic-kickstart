@@ -8,10 +8,10 @@ authors:
 - Joerg Bewersdorf
 - Chaitanya K. Ullal
 
-author_notes:
-- "Equal contribution"
-- 
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- 
+#- "Equal contribution"
 date: "2018-09-05T00:00:00Z"
 doi: "http://dx.doi.org/10.1039/C8MH00644J"
 
@@ -22,7 +22,7 @@ doi: "http://dx.doi.org/10.1039/C8MH00644J"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Materials Horizons*,5, 1130-1136"
+publication: "*Materials Horizons*, **5**, 1130-1136"
 publication_short: ""
 
 # tags:
@@ -41,10 +41,4 @@ publication_short: ""
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
