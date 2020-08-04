@@ -1,22 +1,19 @@
 +++
 # A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/ This homepage section is an example of adding [elements]to the [*Blank* widget (https://sourcethemes.com/academic/docs/widgets/).
 # Add more sections by duplicating this file and customizing to your requirements.
 
 # make links like this [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
-# This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget (https://sourcethemes.com/academic/docs/widgets/).
-
 # Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Welcome to the Ullal Lab at RPI"
+subtitle = "Writing and Characterizing 3D Nanostructured Polymers with Superresolution Optics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
