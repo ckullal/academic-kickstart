@@ -11,7 +11,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Welcome to the Ullal Lab at RPI"
-subtitle = "We write and Characterize 3D Nanostructured Polymers and Gels with Superresolution Optics"
+subtitle = "We write and characterize 3D nanostructured polymers with superresolution optics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
