@@ -7,10 +7,11 @@ authors:
 - Sundararaman, R.
 
 author_notes:
-- Test
 - Equal contribution
-- ullalc@rpi.edu
-- sundar@rpi.edu
+- Equal contribution
+- Corresponding author
+- Corrsponding author
+
 date: "2020-08-06T00:00:00Z"
 doi: "10.1021/acs.jpcb.0c05194"
 
