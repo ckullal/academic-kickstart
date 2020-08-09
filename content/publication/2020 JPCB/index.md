@@ -3,10 +3,14 @@ title: "Coupled Electromagnetic and Reaction Kinetics Simulation of Super-Resolu
 authors:
 - Habib, A.
 - Vijayamohanan, H. 
-- Ullal, C.K.\*
-- Sundararaman, R.\*
+- Ullal, C.K.
+- Sundararaman, R.
 
-#author_notes:
+author_notes:
+- Equal contribution
+- Equal contribution
+- ullalc@rpi.edu
+- sundar@rpi.edu
 date: "2020-08-06T00:00:00Z"
 doi: "10.1021/acs.jpcb.0c05194"
 
