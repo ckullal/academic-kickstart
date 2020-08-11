@@ -33,6 +33,6 @@ email: ""
 user_groups:
 - Alumni
 ---
-With us: Oct. 2016 to May 2020
+<span style="color: red;">With us: </span>Oct. 2016 to May 2020
 
 First big stop after our group: Institute for Materials Research (IMO), Hasselt University, Belgium.
