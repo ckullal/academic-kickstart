@@ -33,6 +33,6 @@ email: ""
 user_groups:
 - Alumni
 ---
-Role: Post-Doc
-With us: Oct. 2016 - May 2020
+Role: Post Doc
+With us: Oct. 2016 to May 2020
 First big stop after our group: Institute for Materials Research (IMO), Hasselt University, Belgium.
