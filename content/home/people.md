@@ -18,12 +18,7 @@ subtitle = ""
                  "Ph.D. Students",
                  "Master's Students",
                  "Undergraduate Students",
-                 "Alumni_PostDocs",
-                 "Alumni: Ph.D. Students",
-                 "Alumni: Master's Students",
-                 "Alumni: Undergraduate Students",
-                 "Alumni: High School Students",
-                 "Alumni: Visitors"]
+                 "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
