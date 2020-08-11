@@ -35,4 +35,4 @@ user_groups:
 ---
 **With us:** Fall 2014 to Spring 2019
 
-**First big stop after our group:** Post Doc at MIT
+**First big stop after our group:** Post Doc at University of Vermont
