@@ -4,7 +4,7 @@ title: Neha Chauhan
 
 # Username (this should match the folder name)
 authors:
-- A_NehaChauhan
+- NehaChauhan
 
 # Is this the primary user of the site?
 superuser: false
