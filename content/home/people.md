@@ -18,7 +18,7 @@ subtitle = ""
                  "Ph.D. Students",
                  "Master's Students",
                  "Undergraduate Students",
-                 "Alumni: Post-Docs",
+                 "Alumni_PostDocs",
                  "Alumni: Ph.D. Students",
                  "Alumni: Master's Students",
                  "Alumni: Undergraduate Students",
