@@ -31,7 +31,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni_PostDocs
+- Alumni
 ---
+Role: Post-Doc
 With us: Oct. 2016 - May 2020
 First big stop after our group: Institute for Materials Research (IMO), Hasselt University, Belgium.
