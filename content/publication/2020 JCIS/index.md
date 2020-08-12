@@ -22,4 +22,5 @@ publication_types: ["2"]
 publication: "*Journal of Colloid and Interface Science*, **568**, 264-272"
 
 ---
-[^1]: Equal Contribution
+Equal Contribution: AAK and GSK.
+Corresponding Author: AAK
