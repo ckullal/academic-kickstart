@@ -1,7 +1,7 @@
 ---
 title: "One-pot Surfactant-free Modulation of Size and Functional Group Distribution in Thermoresponsive Microgels"
 authors:
-- 'Karanastasis, A.A.[^1]'
+- Karanastasis, A.A.
 - Kenath, G.S.
 - Andersen, D. 
 - Fokas, D.
