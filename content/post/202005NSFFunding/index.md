@@ -3,7 +3,6 @@
 
 title: "NSF Funding"
 summary: ""
-authors: []
 date: '2020-05-01'
 
 # Featured image
@@ -22,4 +21,4 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Our proposal with Prof. Ed. Palermo to the NSF entitled "Super-resolution Photochromic Switchinc for Bicontinuous Nanostructures" has been selected for funding by the Division of Chemistry.
+**May 2020** Our proposal with Prof. Ed. Palermo to the NSF entitled "Super-resolution Photochromic Switchinc for Bicontinuous Nanostructures" has been selected for funding by the Division of Chemistry.
