@@ -1,7 +1,7 @@
 ---
 title: "Coupled Electromagnetic and Reaction Kinetics Simulation of Super-Resolution Interference Lithography"
 authors:
-- Habib, A.
+- 'Habib, A.'
 - Vijayamohanan, H. 
 - Ullal, C.K.
 - Sundararaman, R.
