@@ -5,4 +5,4 @@ title: "NSF Funding"
 date: "2020-05-31T00:00:00Z"
 lastmod: "2020-05-30T00:00:00Z"
 ---
-**May 2020** Our proposal with Prof. Ed. Palermo to the NSF entitled "Super-resolution Photochromic Switchinc for Bicontinuous Nanostructures" has been selected for funding by the Division of Chemistry CHE MSN.
+**May 2020** Our proposal with Prof. Ed. Palermo to the NSF entitled "Super-resolution Photochromic Switching for Bicontinuous Nanostructures" has been selected for funding by the Division of Chemistry CHE MSN.
