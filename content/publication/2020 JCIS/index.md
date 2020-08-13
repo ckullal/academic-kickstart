@@ -23,4 +23,5 @@ publication: "*Journal of Colloid and Interface Science*, **568**, 264-272"
 
 ---
 Equal Contribution: AAK and GSK.
-<i class="ai doi" style="color: #06805E"></i>: AAK
+
+<i class="ai doi" style="color: #06805E"></i>: AAK.
