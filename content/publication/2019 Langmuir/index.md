@@ -6,7 +6,7 @@ authors:
 - Boyd, D.
 - Zhou, Z.
 - Palermo, E.F.
-- Ullal, C.K.
+- Ullal, C.K.*
 
 #author_notes:
 date: "2019-03-26T00:00:00Z"
@@ -22,3 +22,4 @@ publication_types: ["2"]
 publication: "*Langmuir*, **35**, 3871-3879"
 
 ---
+\* : Corresponding author
