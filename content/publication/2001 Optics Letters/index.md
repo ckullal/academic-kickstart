@@ -1,7 +1,7 @@
 ---
 title: "Dielectric omnidirectional visible reflector"
 authors:
-- Deopura, M.
+- Deopura, M.*
 - Ullal, C.K.
 - Temelkuran, B.
 - Fink, Y.
@@ -20,3 +20,4 @@ publication_types: ["2"]
 publication: "*Optics Letters*, **26**, 1197-1199"
 
 ---
+\* : Corresponding author
