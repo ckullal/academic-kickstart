@@ -1,7 +1,12 @@
 ---
 title: "Aptamer functionalized silver clusters for STED microscopy "
 authors:
-- Wang, L.; Ta, H.; Ullal C.; Wang, F.; Wang, C.; and Dong, G.
+- Wang, L.
+- Ta, H.
+- Ullal C.
+- Wang, F.*
+- Wang, C.
+- Dong, G.
 
 #author_notes:
 date: "2017-02-16T00:00:00Z"
@@ -17,3 +22,4 @@ publication_types: ["2"]
 publication: "*RSC Advances*, **7**, 11821-11826"
 
 ---
+\* : Corresponding author
