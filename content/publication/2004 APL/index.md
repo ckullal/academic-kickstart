@@ -1,7 +1,7 @@
 ---
 title: "Photonic crystals through holographic lithography: Simple cubic, diamond-like, and gyroid-like structures"
 authors:
-- Ullal, C.K.
+- Ullal, C.K.*
 - Maldovan, M.
 - Thomas, E.L.
 - Chen G.
@@ -22,3 +22,4 @@ publication_types: ["2"]
 publication: "*Applied Physics Letters*, **84**, 5434-5436"
 
 ---
+\* : Corresponding author
