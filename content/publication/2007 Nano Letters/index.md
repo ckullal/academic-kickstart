@@ -5,7 +5,7 @@ authors:
 - Ullal, C.K.
 - Kooi, S.E.
 - Koh, C.-Y.
-- Thomas E.L.
+- Thomas E.L.*
 
 #author_notes:
 date: "2007-02-13T00:00:00Z"
@@ -21,3 +21,4 @@ publication_types: ["2"]
 publication: "*Nano Letters*, **7**, 647-651"
 
 ---
+\* : Corresponding author
