@@ -5,7 +5,7 @@ authors:
 - Ullal, C.K.
 - Gorishnyy, T.
 - Tsukruk V.V.
-- Thomas E.L.
+- Thomas E.L.*
 
 #author_notes:
 date: "2006-03-15T00:00:00Z"
@@ -21,3 +21,4 @@ publication_types: ["2"]
 publication: "*Nano Letters*, **6**, 740-743"
 
 ---
+\* : Corresponding author
