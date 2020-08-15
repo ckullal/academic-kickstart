@@ -6,7 +6,7 @@ authors:
 - Ullal, C.K.
 - Lemieux M.C.
 - Tsukruk V.V.
-- Thomas E.L.
+- Thomas E.L.*
 
 #author_notes:
 date: "2006-06-06T00:00:00Z"
@@ -22,3 +22,4 @@ publication_types: ["2"]
 publication: "*Advanced Functional Materials*, **16**, 1324-1330"
 
 ---
+\* : Corresponding author
