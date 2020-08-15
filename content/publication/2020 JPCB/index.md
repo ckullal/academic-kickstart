@@ -3,7 +3,7 @@ title: "Coupled Electromagnetic and Reaction Kinetics Simulation of Super-Resolu
 authors:
 - Habib, A.^ 
 - Vijayamohanan, H.^
-- Ullal, C.K.* ch. &#8364;
+- Ullal, C.K.* ch.
 - Sundararaman, R.*
 
 # author_notes:
