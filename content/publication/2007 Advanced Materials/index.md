@@ -1,7 +1,7 @@
 ---
 title: "Sub-micrometer scale periodic porous cellular structures: Microframes prepared by holographic interference lithography"
 authors:
-- Maldovan, M.
+- Maldovan, M.*
 - Ullal, C.K.
 - Jang, J.-H.
 - Thomas E.L.
@@ -20,3 +20,4 @@ publication_types: ["2"]
 publication: "*Advanced Materials*, **19**, 3809-+"
 
 ---
+\* : Corresponding author
