@@ -6,11 +6,11 @@ authors:
 - Ullal, C.K.*
 - Sundararaman, R.*
 
-author_notes:
-- Equal contribution
-- Equal contribution
-- Corresponding author
-- Corrsponding author
+# author_notes:
+# - Equal contribution
+# - Equal contribution
+# - Corresponding author
+# - Corrsponding author
 
 date: "2020-08-06T00:00:00Z"
 doi: "10.1021/acs.jpcb.0c05194"
