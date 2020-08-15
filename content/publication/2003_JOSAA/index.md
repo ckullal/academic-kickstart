@@ -4,7 +4,7 @@ authors:
 - Ullal, C.K. 
 - Maldovan, M.
 - Wohlgemuth, M. 
-- Thomas E.L.
+- Thomas E.L.*
 - White C.A.
 - Yang S.
 
@@ -22,3 +22,4 @@ publication_types: ["2"]
 publication: "*Journal of the Optical Society of America A - Optics Image Science and Vision*, **20**, 948-954"
 
 ---
+\* : Corresponding author
