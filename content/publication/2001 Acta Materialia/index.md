@@ -4,7 +4,7 @@ authors:
 - Ullal, C.K. 
 - Balasubramaniam, K.R.
 - Gandhi, A.S. 
-- Jayaram V.
+- Jayaram V.*
 
 #author_notes:
 date: "2001-08-16T00:00:00Z"
@@ -20,3 +20,4 @@ publication_types: ["2"]
 publication: "*Acta Materialia*, **49**, 2691-2699"
 
 ---
+\* : Corresponding author
