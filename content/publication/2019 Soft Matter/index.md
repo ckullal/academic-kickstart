@@ -1,10 +1,10 @@
 ---
 title: "Quantification of Functional Crosslinker Reaction Kinetics via Super-resolution Microscopy of Swollen Microgels"
 authors:
-- Karanastasis, A.A.
-- Kenath, G.S.
+- Karanastasis, A.A.^
+- Kenath, G.S.^
 - Sundararaman, R.
-- Ullal, C.K.
+- Ullal, C.K.*
 
 #author_notes:
 date: "2019-10-28T00:00:00Z"
@@ -20,3 +20,5 @@ publication_types: ["2"]
 publication: "*Soft Matter*, **15**, 9336-9342"
 
 ---
+^ : Equal contribution <br>
+\* : Corresponding author
