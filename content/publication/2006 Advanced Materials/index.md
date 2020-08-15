@@ -6,7 +6,7 @@ authors:
 - Choi, T.Y.
 - Lemieux M.C.
 - Tsukruk V.V.
-- Thomas E.L.
+- Thomas E.L.*
 
 #author_notes:
 date: "2006-07-10T00:00:00Z"
