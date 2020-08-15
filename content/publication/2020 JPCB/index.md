@@ -25,5 +25,6 @@ publication_types: ["2"]
 publication: "*Journal of Physical Chemistry B*, Accepted"
 
 ---
-^: Equal contribution
-\*: Corresponding author
+^ : Equal contribution
+\* : Corresponding author
+\dagger
