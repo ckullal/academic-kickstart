@@ -4,7 +4,7 @@ authors:
 - Deagen, M.
 - Chan E.P.
 - Schadler L.S.
-- Ullal, C.K.
+- Ullal, C.K.*
 
 #author_notes:
 date: "2018-11-02T00:00:00Z"
@@ -20,3 +20,4 @@ publication_types: ["2"]
 publication: "*Soft Matter*, **14**, 9220-9226"
 
 ---
+\* : Corresponding author
