@@ -1,14 +1,14 @@
 ---
 title: "Functional biomimetic microlens arrays with integrated pores"
 authors:
-- Yang, S.
+- Yang, S.*
 - Chen, G.
 - Megens, M.
 - Ullal C.K.
 - Han Y.-J.
 - Rapaport R.
 - Thomas E.L.
-- Aizenberg J.
+- Aizenberg J.*
 
 #author_notes:
 date: "2005-02-18T00:00:00Z"
@@ -24,3 +24,4 @@ publication_types: ["2"]
 publication: "*Advanced Materials*, **17**, 435-+"
 
 ---
+\* : Corresponding author
