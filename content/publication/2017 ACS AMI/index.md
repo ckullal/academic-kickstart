@@ -3,7 +3,7 @@ title: "Wetting regimes for residual-layer-free transfer molding at the micro- a
 authors:
 - Deagen, M.
 - Schadler, L.S.
-- Ullal, C.K.
+- Ullal, C.K.*
 
 #author_notes:
 date: "2017-09-25T00:00:00Z"
@@ -19,3 +19,4 @@ publication_types: ["2"]
 publication: "*ACS APplied Materials and Interfaces*, **9**, 36385-36391"
 
 ---
+\* : Corresponding author
