@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Hypersonic phononic crystals"
 authors:
 - Gorishnyy, T.*
 - Ullal, C.K.
