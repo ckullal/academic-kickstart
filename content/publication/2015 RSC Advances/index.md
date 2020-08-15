@@ -1,7 +1,7 @@
 ---
 title: "Bimodal 'matrix free' Polymer Nanocomposites"
 authors:
-- Li, Y.
+- Li, Y.*
 - Wang, L.
 - Natarajan, B.
 - Tao, P.
