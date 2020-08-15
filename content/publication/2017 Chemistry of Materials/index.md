@@ -3,7 +3,7 @@ title: "Spirothiopyran-Based Reversibly Saturable Photoresist"
 authors:
 - Vijayamohanan, H.
 - Palermo, E.F.
-- Ullal, C.K.
+- Ullal, C.K.*
 
 #author_notes:
 date: "2017-05-22T00:00:00Z"
@@ -19,3 +19,4 @@ publication_types: ["2"]
 publication: "*Chemistry of Materials*, **29**, 4754-4760"
 
 ---
+\* : Corresponding author
