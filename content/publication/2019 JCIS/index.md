@@ -1,12 +1,12 @@
 ---
-title: "​Dye Doped Concentric Shell Nanoparticles for Enhanced Photophysical Performance of Downconverting Light Emitting Diodes"
+title: "Dye Doped Concentric Shell Nanoparticles for Enhanced Photophysical Performance of Downconverting Light Emitting Diodes"
 authors:
-- ​Ning, X.
+- Ning, X.*
 - Chittigori, J.
 - Li, Y.
 - Horner, G.
 - Zhou, Z.
-- Ullal, C.K.
+- Ullal, C.K.*
 - Schadler, L.S.
 
 #author_notes:
@@ -23,3 +23,4 @@ publication_types: ["2"]
 publication: "*Journal of Colloid and Interface Science*, **556**, 753-760"
 
 ---
+\* : Corresponding author
