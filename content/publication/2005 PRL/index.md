@@ -1,7 +1,7 @@
 ---
 title: ""
 authors:
-- Gorishnyy, T.
+- Gorishnyy, T.*
 - Ullal, C.K.
 - Maldovan, M.
 - Fytas G.
@@ -21,3 +21,4 @@ publication_types: ["2"]
 publication: "*Physical Review Letters*, **94**, 115501"
 
 ---
+\* : Corresponding author
