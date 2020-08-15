@@ -4,7 +4,7 @@ authors:
 - Maldovan, M.
 - Ullal, C.K.
 - Carter, W.C.
-- Thomas E.L.
+- Thomas E.L.*
 
 # author_notes:
 date: "2003-09-14T00:00:00Z"
@@ -20,3 +20,4 @@ publication_types: ["2"]
 publication: "*Nature Materials*, **2**, 664-667"
 
 ---
+\* : Corresponding author
