@@ -1,9 +1,9 @@
 ---
 title: "Block Copolymer Nanostructures Mapped by Far-Field Optics"
 authors:
-- Ullal, C.K.
-- Schmidt, R.
-- Hell, S.W.
+- Ullal, C.K.^
+- Schmidt, R.^
+- Hell, S.W.*
 - Egner, A.
 
 #author_notes:
@@ -20,3 +20,5 @@ publication_types: ["2"]
 publication: "*Nano Letters*, **9**, 2497-2500"
 
 ---
+^ : Equal contribution, random order <br>
+\* : Corresponding author
