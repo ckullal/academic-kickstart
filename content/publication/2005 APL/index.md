@@ -1,11 +1,11 @@
 ---
 title: "Microlens arrays with integrated pores as a multipattern photomask"
 authors:
-- Yang, S.
+- Yang, S.*
 - Ullal, C.K.
 - Thomas, E.L.
 - Chen, G.
-- Aizenberg, J.
+- Aizenberg, J.*
 
 #author_notes:
 date: "2005-05-13T00:00:00Z"
@@ -21,3 +21,4 @@ publication_types: ["2"]
 publication: "*Applied Physics Letters*, **86**, 201121"
 
 ---
+\* : Corresponding author
