@@ -1,10 +1,10 @@
 ---
 title: "Three-dimensional nanoscopy of colloidal crystals"
 authors:
-- Harke, B.
-- Ullal, C.K.
+- Harke, B.^
+- Ullal, C.K.^*
 - Keller, J.
-- Hell S.W.
+- Hell S.W.*
 
 #author_notes:
 date: "2008-01-01T00:00:00Z"
@@ -20,3 +20,5 @@ publication_types: ["2"]
 publication: "*Nano Letters*, **8**, 1309"
 
 ---
+^ : Equal contribution <br>
+\* : Corresponding author
