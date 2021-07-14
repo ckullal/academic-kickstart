@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: ""
+role: "Former Master's Student"
 
 # Organizations/Affiliations
 organizations:
@@ -28,5 +28,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master's Students
+- Alumni
 ---
+**With us:** to Fall 2020
+
+**First big stop after our group:** R&D Engineer at Essilor
