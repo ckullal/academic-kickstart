@@ -13,13 +13,13 @@ superuser: false
 role: "Former Master's Student"
 
 # Organizations/Affiliations
-organizations:
-- name: Rensselaer Polytechnic Institute
-  url: "http://mse.rpi.edu"
+# organizations:
+# - name: Rensselaer Polytechnic Institute
+#  url: "http://mse.rpi.edu"
 
 education:
   courses:
-  - course: B.S. in Materials Engineering
+  - course: B.S. and M.Eng. in Materials Engineering
     institution: Rensselaer Polytechnic Institute
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
