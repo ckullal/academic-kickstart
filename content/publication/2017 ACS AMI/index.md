@@ -16,7 +16,7 @@ doi: "10.1021/acsami.7b09402"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS APplied Materials and Interfaces*, **9**, 36385-36391"
+publication: "*ACS Applied Materials and Interfaces*, **9**, 36385-36391"
 
 ---
 \* : Corresponding author
