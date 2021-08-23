@@ -16,7 +16,7 @@ doi: "10.1021/acs.macromol.1c00754"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Macromolecules*, **vol**, pp-pp"
+publication: "*Macromolecules*, Accepted"
 
 ---
 \* : Corresponding author
