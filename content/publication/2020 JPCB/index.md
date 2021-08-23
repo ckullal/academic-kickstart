@@ -22,7 +22,7 @@ doi: "10.1021/acs.jpcb.0c05194"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Physical Chemistry B*, Accepted"
+publication: "*Journal of Physical Chemistry B*, **124**, 7717-7724"
 
 ---
 ^ : Equal contribution <br>
