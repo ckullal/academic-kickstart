@@ -35,3 +35,4 @@ email: ""
 user_groups:
 - Alumni
 ---
+**With us:** Fall 2018 to Fall 2021
