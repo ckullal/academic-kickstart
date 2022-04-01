@@ -24,6 +24,9 @@ education:
   courses:
   - course: M.Sc. (5 year integrated with B.Sc.) in Chemistry
     institution: NISER, Bhubaneshwar, India
+  - course: Ph.D. in Materials Science and Engineering
+    institution: Rensselaer Polytechnic Institute, Troy, N.Y.
+    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -31,5 +34,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
