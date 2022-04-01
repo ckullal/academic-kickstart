@@ -13,8 +13,8 @@ superuser: false
 role: "Former Ph.D. student"
 
 # Organizations/Affiliations
-#organizations:
-#- name: Rensselaer Polytechnic Institute
+# organizations:
+# - name: Rensselaer Polytechnic Institute
 #  url: "http://mse.rpi.edu"
 
 # Short bio (displayed in user profile at end of posts)
