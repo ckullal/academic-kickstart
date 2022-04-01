@@ -24,6 +24,9 @@ education:
   courses:
   - course: M.Sc. (5 year integrated with B.Sc.) in Chemistry
     institution: NISER, Bhubaneshwar, India
+  - course: Ph.D. in Materials Science and Engineering
+    institution: Rensselaer Polytechnic Institute
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
