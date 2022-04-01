@@ -22,8 +22,8 @@ role: "Former Master's of Engineering Student"
 
 education:
   courses:
-  - course: 
-    institution: Tshinghua University, Beijing, China
+  - course: B.S. in Mathematics and Physics
+    institution: Tsinghua University, Beijing, China
   - course: M.Eng. in Materials Engineering
     institution: Rensselaer Polytechnic Institute, Troy, N.Y.
 
