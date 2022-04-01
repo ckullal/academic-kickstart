@@ -36,3 +36,5 @@ user_groups:
 - Alumni
 ---
 **With us:** Fall 2015 to Summer 2017
+
+**First big stop:** Ph.D. student in Computer Science at Rensselaer Polytechnic Institute
