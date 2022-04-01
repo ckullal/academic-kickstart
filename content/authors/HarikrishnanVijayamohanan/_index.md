@@ -24,6 +24,8 @@ education:
   courses:
   - course: Dual Degree B. Eng., Electrical and Electronics Engineering and M.Sc. Chemistry
     institution: Birla Institute of Technology and Science, Pilani, India
+  - course: Ph.D. in Materials Science and Engineering
+    institution: Rensselaer Polytechnic Institute
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -35,4 +37,4 @@ user_groups:
 ---
 **With us:** Fall 2013 to Summer 2019
 
-**First big stop after our group:** Post Doc at MIT
+**First big stops after our group:** Post Doc at MIT; Intel
