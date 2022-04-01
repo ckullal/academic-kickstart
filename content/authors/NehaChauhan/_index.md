@@ -13,9 +13,9 @@ superuser: false
 role: "Former Ph.D. student"
 
 # Organizations/Affiliations
-organizations:
-- name: Rensselaer Polytechnic Institute
-  url: "http://mse.rpi.edu"
+# organizations:
+# - name: Rensselaer Polytechnic Institute
+  # url: "http://mse.rpi.edu"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests are polymers, optics and nanofabrication.
