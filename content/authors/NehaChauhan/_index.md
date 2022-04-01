@@ -36,3 +36,7 @@ email: ""
 user_groups:
 - Alumni
 ---
+**With us:** Fall 2015 to Summer 2021
+
+**First big stop after our group:** Post Doc at Univ. Illinois at Urbana-Champaign
+
