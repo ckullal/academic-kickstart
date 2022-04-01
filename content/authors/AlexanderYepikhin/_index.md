@@ -24,6 +24,8 @@ education:
   courses:
   - course: B.S. in Biochemistry
     institution: George Washington University, Washington D.C.
+  - course: M.Eng. in Materials Engineering
+    institution: Rensselaer Polytechnic Institute, Troy, N.Y.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -31,5 +33,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
