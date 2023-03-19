@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: ""
+role: "Former Ph.D. student"
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,8 @@ education:
   courses:
   - course: M.Tech. (5 year integrated with B.Tech.) in Materials Science and Technology
     institution: IIT BHU, Varanasi, India
+  - course: Ph.D. in Materials Science and Engineering
+    institution: Rensselaer Polytechnic Institute
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -31,5 +33,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
+**With us:** Fall 2017 to Fall 2022
+
+**First big stops after our group:** IBM
